@@ -22,3 +22,16 @@ function whileLoop(number) {
     return "done";
   }
 }
+
+function doWhileLoop(array) {
+  
+
+do {
+  array.length--;
+} while
+function maybeTrue() {
+return Math.random() >= 0.5
+}
+(array.length > 0 && maybeTrue());
+
+retrun array; }
