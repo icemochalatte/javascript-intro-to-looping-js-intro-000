@@ -34,4 +34,6 @@ do {
 
 (array.length > 0 && maybeTrue());
 
-return array; }
+return array; 
+
+}
