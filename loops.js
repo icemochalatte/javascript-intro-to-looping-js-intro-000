@@ -24,14 +24,14 @@ function whileLoop(number) {
 }
 
 function doWhileLoop(array) {
-
+  function maybeTrue() {
+  return Math.random() >= 0.5
+  }
 
 do {
-  array.length--;
+  (array--);
 } while
-function maybeTrue() {
-return Math.random() >= 0.5
-}
+
 (array.length > 0 && maybeTrue());
 
-retrun array; }
+return array; }
