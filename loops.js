@@ -29,7 +29,7 @@ function doWhileLoop(array) {
   }
 
 do {
-  delete array[1];
+  delete array[];
 } while
 
 (array.length > 0 && maybeTrue());
