@@ -29,7 +29,7 @@ function doWhileLoop(array) {
   }
 
 do {
-  (array--);
+  console.log(array--);
 } while
 
 (array.length > 0 && maybeTrue());
